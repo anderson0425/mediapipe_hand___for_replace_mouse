@@ -1,0 +1,1 @@
+# mediapipe_hand___for_replace_mouse
